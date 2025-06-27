@@ -1,0 +1,5 @@
+{
+  "owners": ["finos", "octocat"],
+  "names": ["git-proxy"],
+  "slugs": ["finos/git-proxy", "coopernetes/test-repo.git"]
+}
